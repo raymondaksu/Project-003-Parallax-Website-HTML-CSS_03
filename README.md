@@ -1,4 +1,4 @@
-https://raymondaksu.github.io/HTML-CSS-003-Parallax-Website/
+https://raymondaksu.github.io/Project-003-Parallax-Website-HTML-CSS_03/
 
 # Project-003 : Parallax Website (HC-03)
 
